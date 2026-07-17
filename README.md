@@ -1,3 +1,24 @@
+# Laravel Login Authentication
+
+Laravel 13 authentication system with:
+
+- Login
+- Register
+- Profile Update
+- Password Update
+- Two Factor Authentication
+- Tailwind CSS
+- Vite
+
+## Installation
+
+```bash
+composer install
+npm install
+npm run dev
+php artisan serve
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
